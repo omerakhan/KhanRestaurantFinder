@@ -1,2 +1,2 @@
 # KhanRestaurantFinder
-Uses MapKit, CoreLocation, and Yelp Api to show restaurants nearby
+Uses MapKit, CoreLocation, and Yelp Api to show nearby restaurants
